@@ -1,0 +1,1 @@
+# tamashii_client_example
